@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojectgj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6459b751-c5f6-4c8a-8df4-2e57d7322df0",
+		"tenantId": "9275105e-d355-44a7-92c3-6b108f762c94"
+	}
+}
