@@ -186,7 +186,7 @@
 						"referenceName": "json_dynamic",
 						"type": "DatasetReference",
 						"parameters": {
-							"container": "brone",
+							"container": "bronze",
 							"folder": "cdc",
 							"file": "empty.json"
 						}
