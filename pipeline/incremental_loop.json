@@ -9,7 +9,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@pipeline().parameters.loop_input",
+						"value": "@pipeline().parameters.loopInput",
 						"type": "Expression"
 					},
 					"isSequential": true,
@@ -322,7 +322,7 @@
 		],
 		"parameters": {
 			"loopInput": {
-				"type": "string",
+				"type": "array",
 				"defaultValue": [
 					{
 						"schema": "dbo",
