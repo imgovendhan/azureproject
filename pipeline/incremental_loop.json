@@ -321,8 +321,8 @@
 			}
 		],
 		"parameters": {
-			"loop_input": {
-				"type": "array",
+			"loopInput": {
+				"type": "string",
 				"defaultValue": [
 					{
 						"schema": "dbo",
